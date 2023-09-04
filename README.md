@@ -1,2 +1,2 @@
-# alexganagn.github.io
+# Alexis Anagnostakis
 Personal web page
